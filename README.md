@@ -1,27 +1,27 @@
 # IIITDMJ-Nursery
-PLANTS ORDERING WEBSITE FOR OUR OWN NURSERY  ( support with enable automatic chat-bot )
+PLANTS ORDERING WEBSITE FOR OUR OWN NURSERY ( Support with enable automatic chat-bot (Google Dialogue Flow) ).
 
-FIRST CREATE A DATABASE WITH NAME AS "iiitdmj_nursery",AND IMPORT THE SQL FILE WHICH IS PROVIDED.
+First create a database with name as "iiitdmj_nursery", And import the SQL file provided.
 
 
-ADMIN CREDINTIALS:
+Admin Credentials:
 a)
-ADMINID---Bhargav_0105---
-PASSWORD---20BCS138---
+Admin Id---Bhargav_0105---
+Password---20BCS138---  
 b)
-ADMINID---VVSDC---
-PASSWORD---20BCS244---
+Admin Id---VVSDC---
+Password---20BCS244---  
 c)
-ADMINID---MTK---
-PASSWORD---20BCS132---
+Admin Id---MTK---
+Password---20BCS132---  
 
 USER CREDINTIALS:
 a)
-USERID---Bhargav_0105---
-PASSWORD---NBC---
+User Id---Bhargav_0105---
+Password---NBC---
 
 
-NOTE:ALL THE SCREENSHOTS ATTACHED IN THE DOCUMENT ARE FROM THE USERID "Bhargav_0105". 
+NOTE: All the screen shots attached in the document are from User Id "Bhargav_0105". 
 
 # ABOUT OUR NURSERY :
 IIITDMJ Nursery is a retail nursery that delivers plants and seeds to general public for home as well as for commercial garden purposes. We’ve assured a 24/7 support online chatbot for queries regarding plants, their care and delivery. We provide every details of each product about favourable climatic conditions for maximum yield as well as kind of soil and amount of watering required.
