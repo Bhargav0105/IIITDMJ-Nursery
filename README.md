@@ -39,7 +39,7 @@ We’ve added a 24/7 support chatbot facility which clarifies queries regarding 
 
 issues to make website much more user friendly and easy to use for everyone.
 
-SYSTEM FEATURES AND REQUIREMENTS:
+# SYSTEM FEATURES AND REQUIREMENTS:
 
 ->RAM : 512MB and Above
 ->Operating System : Windows 7,Windows 10,Mac or Most Linux distros released after 2017.
@@ -49,15 +49,15 @@ SYSTEM FEATURES AND REQUIREMENTS:
 ->Database : MySQL
 ->Browser : Chrome, Firefox or any modern browser.
 
-FUNCTIONAL REQUIREMENTS:
+# FUNCTIONAL REQUIREMENTS:
 
 A user must have an account to access the products, ask queries regarding products and purchase them. A user can update his contact number or address whenever he/she wants in the profile.
 
-NON-FUNCTIONAL REQUIREMENTS:
+# NON-FUNCTIONAL REQUIREMENTS:
 
 A user will not be able to change his name after creating an account. A user cannot change any details regarding products.
 
-TECHNOLOGIES USED:
+# TECHNOLOGIES USED:
 
 FRONT END :
 
@@ -69,12 +69,12 @@ BACKEND:
 ->PHP
 ->MySQL
 
-SOFTWARE USED:
+# SOFTWARE USED:
 ->Xampp/Wampp
 ->VS Code/Text-Editor
 
 
-QUERIES AND FUNCTIONALITY:
+# QUERIES AND FUNCTIONALITY:
 
 1. In order to purchase the plants, users must login using username and password in which user name will be used as a key. If details of username or password are wrong then the user will be given a warning to enter correct details or sign up if the user is new to the website.
 
