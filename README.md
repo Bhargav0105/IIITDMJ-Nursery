@@ -78,10 +78,10 @@ BACKEND:
 
 1. In order to purchase the plants, users must login using username and password in which user name will be used as a key. If details of username or password are wrong then the user will be given a warning to enter correct details or sign up if the user is new to the website.
 
-2.A username is unique and during sign up,if username of a user matches with another username then the user will be informed that an account already exists with such user name. Details of user will be recorded in customer table.
+2. A username is unique and during sign up,if username of a user matches with another username then the user will be informed that an account already exists with such user name. Details of user will be recorded in customer table.
 
-3.After logging in, the user will be directed to main page where the user can check products and their descriptions. The user can use chatbot for queries and can order the plants after logging in.
+3. After logging in, the user will be directed to main page where the user can check products and their descriptions. The user can use chatbot for queries and can order the plants after logging in.
 
-4.Users can either pay using the COD(Cash on delivery) or card methods while ordering. And then after transaction is successful the user will be given a message that the order is successful and the user will be given a bill.
+4. Users can either pay using the COD(Cash on delivery) or card methods while ordering. And then after transaction is successful the user will be given a message that the order is successful and the user will be given a bill.
 
-5.Admins can login using log-in as admin button in login page. An admin can view all the orders and can update stocks as well as can add or delete products.
+5. Admins can login using log-in as admin button in login page. An admin can view all the orders and can update stocks as well as can add or delete products.
